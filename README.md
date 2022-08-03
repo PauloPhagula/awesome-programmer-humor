@@ -1,6 +1,6 @@
 # Awesome Programmer Humor [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-> Awesome Programmer Jokes
+> Awesome Programmer Humor
 
 A curated list of jokes, koans, comics, texts, and everything related to programmer humor.
 
