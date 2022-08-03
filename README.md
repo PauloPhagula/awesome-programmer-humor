@@ -2,7 +2,7 @@
 
 > Awesome Programmer Jokes
 
-This list contains jokes, koans, Comics and everything related to programmer humor
+A curated list of jokes, koans, comics, texts, and everything related to programmer humor.
 
 ## Contents
 
