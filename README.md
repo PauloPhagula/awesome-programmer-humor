@@ -1,4 +1,4 @@
-# Awesome Programmer Jokes [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
+# Awesome Programmer Humor [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
 > Awesome Programmer Jokes
 
