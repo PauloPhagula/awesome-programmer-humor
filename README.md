@@ -9,6 +9,7 @@ A curated list of jokes, koans, comics, texts, and everything related to program
 - [Koans](#koans)
 - [Texts](#texts)
 - [Comics](#comics)
+- [Jokes](#jokes)
 
 ## Koans
 
@@ -26,7 +27,7 @@ A curated list of jokes, koans, comics, texts, and everything related to program
 - [XKCD](https://xkcd.com/)
 - [The Developer's Life](https://developerslife.tech/en/)
 - [CommitStrip](https://www.commitstrip.com/en/)
-- [MonekyUser](https://www.monkeyuser.com/)
+- [MonkeyUser](https://www.monkeyuser.com/)
 
 ## Jokes
 
