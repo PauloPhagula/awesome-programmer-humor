@@ -28,6 +28,7 @@ A curated list of jokes, koans, comics, texts, and everything related to program
 - [The Developer's Life](https://developerslife.tech/en/)
 - [CommitStrip](https://www.commitstrip.com/en/)
 - [MonkeyUser](https://www.monkeyuser.com/)
+- [Dilbert](https://dilbert.com/)
 
 ## Jokes
 
