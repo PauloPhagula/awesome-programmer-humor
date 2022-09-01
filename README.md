@@ -33,3 +33,8 @@ A curated list of jokes, koans, comics, texts, and everything related to program
 ## Jokes
 
 - [programmer jokes](https://github.com/PauloPhagula/programmer-jokes)
+
+## Accounts
+
+- [@VishalMalvi_](https://twitter.com/VishalMalvi_) - Twitter
+- [r/ProgrammerHumor/](https://www.reddit.com/r/ProgrammerHumor/) - Reddit
