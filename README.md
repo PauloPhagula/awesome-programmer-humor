@@ -29,6 +29,7 @@ A curated list of jokes, koans, comics, texts, and everything related to program
 - [CommitStrip](https://www.commitstrip.com/en/)
 - [MonkeyUser](https://www.monkeyuser.com/)
 - [Dilbert](https://dilbert.com/)
+- [Hardly Funny](https://hardlyfunny.com/)
 
 ## Jokes
 
